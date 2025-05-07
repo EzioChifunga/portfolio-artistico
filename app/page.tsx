@@ -131,7 +131,7 @@ export default function Home() {
             <Twitter className="h-4 w-4" />
             <span className="sr-only">Twitter</span>
           </Link>
-          <Link href="#" className="text-muted-foreground hover:text-foreground">
+          <Link href="eziochifunga1@gmail.com" className="text-muted-foreground hover:text-foreground">
             <Mail className="h-4 w-4" />
             <span className="sr-only">Email</span>
           </Link>
