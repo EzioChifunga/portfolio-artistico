@@ -48,7 +48,7 @@ export default function Home() {
           <div className="container px-4 md:px-6">
             <div className="grid gap-6 lg:grid-cols-2 lg:gap-12 items-center">
               <div className="space-y-4">
-                <h1 className="text-3xl font-bold tracking-tighter sm:text-5xl">Meu Portfólio Artístico</h1>
+                <h1 className="text-3xl font-bold tracking-tighter sm:text-5xl">Teste edição </h1>
                 <p className="max-w-[600px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
                   Bem-vindo ao meu mundo criativo. Aqui você encontrará uma coleção dos meus melhores trabalhos
                   artísticos.
